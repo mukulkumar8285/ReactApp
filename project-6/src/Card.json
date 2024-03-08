@@ -1,0 +1,30 @@
+[
+  {
+    "Image" :"http://images2.fanpop.com/images/photos/8400000/Movie-Posters-movies-8405245-1224-1773.jpg",
+    "background":"https://larkable.com/wp-content/uploads/2014/02/johnny_depp_in_pirates_of_the_caribbean_4-wide.jpg",
+    "Movie": "Pirates of the Caribbean",
+    "Date" :"17 July 2022",
+    "Text": "Crime,Race,Action",
+    "Timing": "123 min",
+    "Name": "A basic application that displays a list of movies as a list of cards. Each card provides movie detail such as title, subtitle, description, image, and rating."
+  },
+  {
+    "Image" :"http://images2.fanpop.com/images/photos/8400000/Movie-Posters-movies-8405245-1224-1773.jpg",
+    "background":"https://larkable.com/wp-content/uploads/2014/02/johnny_depp_in_pirates_of_the_caribbean_4-wide.jpg",
+    "Movie": "Pirates of the Caribbean",
+    "Date" :"17 July 2022",
+    "Text": "Crime,Race,Action",
+    "Timing": "123 min",
+    "Name": "A basic application that displays a list of movies as a list of cards. Each card provides movie detail such as title, subtitle, description, image, and rating."
+  },
+  {
+    "Image" :"http://images2.fanpop.com/images/photos/8400000/Movie-Posters-movies-8405245-1224-1773.jpg",
+    "background":"https://larkable.com/wp-content/uploads/2014/02/johnny_depp_in_pirates_of_the_caribbean_4-wide.jpg",
+    "Movie": "Pirates of the Caribbean",
+    "Date" :"17 July 2022",
+    "Text": "Crime,Race,Action",
+    "Timing": "123 min",
+    "Name": "A basic application that displays a list of movies as a list of cards. Each card provides movie detail such as title, subtitle, description, image, and rating."
+  }
+
+]
